@@ -33,6 +33,6 @@ Hi there, I'm **Pedro Duca**. Currently, I'm a Front-end Developer at [@ModalGR]
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedroduca&show_icons=true&hide_border=true)
 
 ⭐️ From [Pedro Duca](https://github.com/pedroduca)
