@@ -58,6 +58,11 @@ I excel in agile environments and pride myself on writing clean, maintainable co
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroduca&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroduca&layout=compact&theme=dracula"/>
+</div>
+
 ---
 
 ## 🤝 Let's Connect!
